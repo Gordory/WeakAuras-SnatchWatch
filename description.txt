@@ -1,0 +1,18 @@
+
+
+|cFFFF8E00Snatch wather |cFF505050by Gordory
+
+|cFFFF8E00Get help with tracking items loot in your group/raid
+
+
+|cFFFFCD00Indication will show when somebody loots item from your list. This snatcher will receive message from you with urgent request to trade snatched item.
+
+By default item list contains two type of AQ keys, but you can add some items or remove from the list, using the 'Custom options' tab. Also you can turn-off messaging or change the message in this tab.
+
+You can modify load zones or conditions at 'Load' tab
+
+Should work for all languages, but tested only on RU and EN locales.
+
+|cFF5CBDFFhttps://github.com/Gordory/WeakAuras-SnatchWatch
+https://wago.io/6Thi8Cup6
+Discord: Gordory#3993
